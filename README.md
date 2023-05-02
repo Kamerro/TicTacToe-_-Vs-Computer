@@ -35,4 +35,12 @@ In code I use format [0] -> empty cell, [1] -> player cell, [-1] -> computer cel
 Above is class that inherits from "Label". All we need to do is add some methods, that will change image of the control.
 Pictures are added to the folder of the project, by "Directory" class there is possible to read the location of these pictures.
 
+![GenerujCell](https://user-images.githubusercontent.com/98419600/235795938-7f17c4c4-a8e9-48ae-acf3-cd89d9d4f07a.png)
 
+By code above we can generate the cells on grid. We can add the Cells to the Panel, and then "push" the size of Panel by the width and height of controls.
+We set the margin for readability,
+Also the function is added to the event On Click of the control. Nothing simpler!
+
+![PanelGrid](https://user-images.githubusercontent.com/98419600/235795945-146624a3-6491-496b-b269-d1431791ee67.png)
+
+Code that generates Panel and adds it to the Main Form window.
