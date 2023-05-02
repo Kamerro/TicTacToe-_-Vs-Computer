@@ -3,17 +3,17 @@ TicTacToe created with WFA with all controls generated in code, - Code in PL lan
 
 # Code code code code! 
 
-## Enums!: 
+ Enums!: 
 
 
 
 
 
-## Inheritance and why we use it? 
+ Inheritance and why we use it? 
 
 
 
 
 
-## How to generate controls in code 😲? 
+How to generate controls in code 😲? 
 
