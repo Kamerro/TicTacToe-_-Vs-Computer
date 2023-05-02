@@ -31,6 +31,7 @@ In code I use format [0] -> empty cell, [1] -> player cell, [-1] -> computer cel
 
 # Pictures:
 ![Inheritance](https://user-images.githubusercontent.com/98419600/235795924-b8eed1a8-f91b-483b-9d6a-bcc82ec67f08.jpg)
+
 Above is class that inherits from "Label". All we need to do is add some methods, that will change image of the control.
 
 
