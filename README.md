@@ -1,9 +1,19 @@
 # TicTacToe-_-Vs-Computer
 TicTacToe created with WFA with all controls generated in code, - Code in PL language ;)
 
-# nagłówek H1
-## nagłówek H2
-### nagłówek H3
-#### nagłówek H4
-##### nagłówek H5
-###### nagłówek H6 
+# Code code code code! H1
+
+## Enums!: H3
+
+
+
+
+
+## Inheritance and why we use it? H3
+
+
+
+
+
+## How to generate controls in code 😲? H3
+
