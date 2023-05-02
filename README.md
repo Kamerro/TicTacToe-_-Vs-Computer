@@ -1,6 +1,13 @@
 # TicTacToe-_-Vs-Computer
 TicTacToe created with WFA with all controls generated in code, - Code in PL language ;)
 
+## Table of contents
+* [Code](#general-info)
+* [Pictures](#Pictures)
+* [Technologies](#Technologies)
+
+
+
 # Code code code code! 
 
 Enums!
