@@ -2,7 +2,7 @@
 TicTacToe created with WFA with all controls generated in code, - Code in PL language ;)
 
 ## Table of contents
-* [Code](#Code code code code!)
+* [Code](#'Code code code code!')
 * [Pictures](#Pictures)
 * [Technologies](#Technologies)
 
