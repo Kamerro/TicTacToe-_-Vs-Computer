@@ -47,12 +47,12 @@ Code that generates Panel and adds it to the Main Form window.
 
 
 
-#Technologies
+# Technologies
 
 C# WFA
 
 
-#Usage
+# Usage
 
 For proper using project :
 Download C&C.rar file -> Open project in VS -> Open Solution Explorer (CTRL + w,s) -> FormaKolkoIKrzyzyk view on solution explorer -> F7 in the view of Form for open the code/ F5 to run the game!
