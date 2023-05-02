@@ -5,7 +5,7 @@ TicTacToe created with WFA with all controls generated in code, - Code in PL lan
 * [Code]
 * [Pictures](#Pictures)
 * [Technologies](#Technologies)
-
+* [Usage](#TUsage)
 
 
 # Code code code code! 
@@ -44,3 +44,20 @@ Also the function is added to the event On Click of the control. Nothing simpler
 ![PanelGrid](https://user-images.githubusercontent.com/98419600/235795945-146624a3-6491-496b-b269-d1431791ee67.png)
 
 Code that generates Panel and adds it to the Main Form window.
+
+
+
+#Technologies
+
+C# WFA
+
+
+#Usage
+
+For proper using project :
+Download C&C.rar file -> Open project in VS -> Open Solution Explorer (CTRL + w,s) -> FormaKolkoIKrzyzyk view on solution explorer -> F7 in the view of Form for open the code/ F5 to run the game!
+
+
+ENJOY!
+
+
