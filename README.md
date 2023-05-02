@@ -33,5 +33,6 @@ In code I use format [0] -> empty cell, [1] -> player cell, [-1] -> computer cel
 ![Inheritance](https://user-images.githubusercontent.com/98419600/235795924-b8eed1a8-f91b-483b-9d6a-bcc82ec67f08.jpg)
 
 Above is class that inherits from "Label". All we need to do is add some methods, that will change image of the control.
+Pictures are added to the folder of the project, by "Directory" class there is possible to read the location of these pictures.
 
 
